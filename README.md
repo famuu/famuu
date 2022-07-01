@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faheem
-- 👀 I’m Love to code
+- 👀 I Love to code
 - 🌱 I’m currently learning
 <!---
 famuu/famuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
